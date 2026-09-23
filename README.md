@@ -9,6 +9,10 @@
  ╚═════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚══════╝
 </pre>
 
+<p>
+  <strong>English</strong> · <a href="./README.zh-CN.md">中文</a>
+</p>
+
 ### Agent · Applications · Ecosystem
 
 **The home of Cyrene.**
