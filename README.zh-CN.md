@@ -76,13 +76,15 @@ Cyrene 由 **Playa** 独立创作并主要负责开发与维护，同时也接�
 
 以上技术构成了目前 Cyrene 生态的主要工程技术栈。
 
-### 🤖 模型生态
+### 🤖 AI 辅助开发
 
 ![GPT](https://img.shields.io/badge/GPT-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![GLM](https://img.shields.io/badge/GLM-Zhipu_AI-315EFB?style=for-the-badge)
-![MiniMax](https://img.shields.io/badge/MiniMax-Models-FF6B35?style=for-the-badge)
+![MiniMax](https://img.shields.io/badge/MiniMax-AI-FF6B35?style=for-the-badge)
 
-Cyrene 支持并持续适配多个 AI 模型家族与模型服务商。这里列出的模型并不是固定边界，后续会随着 Cyrene 的发展继续扩展。
+这些是 **Playa** 在 Cyrene 生态开发过程中主要用于辅助研发、代码审查、调试与迭代的 AI 模型家族。
+
+> 本节描述的是 **开发过程中使用的辅助模型**，并不代表、更不限制 Cyrene 本身所支持的 AI 模型与服务商范围。
 
 ---
 
