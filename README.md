@@ -76,13 +76,15 @@ A local Markdown note-taking application designed around Cyrene-Agent's Learn mo
 
 These technologies make up the primary engineering stack used across the Cyrene ecosystem.
 
-### 🤖 Model Ecosystem
+### 🤖 AI-Assisted Development
 
 ![GPT](https://img.shields.io/badge/GPT-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![GLM](https://img.shields.io/badge/GLM-Zhipu_AI-315EFB?style=for-the-badge)
-![MiniMax](https://img.shields.io/badge/MiniMax-Models-FF6B35?style=for-the-badge)
+![MiniMax](https://img.shields.io/badge/MiniMax-AI-FF6B35?style=for-the-badge)
 
-Cyrene is designed to work with multiple AI model families and providers. The model ecosystem is not limited to the providers listed above and may evolve alongside the project.
+These are the AI model families primarily used by **Playa** to assist with the development, review, debugging, and iteration of the Cyrene ecosystem.
+
+> This section describes the models used during **development**. It does **not** represent or limit the AI models and providers supported by Cyrene itself.
 
 ---
 
